@@ -1,0 +1,31 @@
+# Ignore virtual environment and unnecessary files
+smart_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+*.keras
+*.log
+*.DS_Store
+# Ignore virtual environment
+smart_env/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
+
+# Ignore large model or data files if needed
+*.h5
+*.pkl
+*.zip
+
