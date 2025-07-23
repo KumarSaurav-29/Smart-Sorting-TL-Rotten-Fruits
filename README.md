@@ -80,7 +80,7 @@ The `.h5` file contains a pre-trained model using **Transfer Learning** techniqu
 
 ## 📷 Sample Result
 
-> (You can add a screenshot of your web app here)
+![Result Screenshot](images/result_screenshot.png)
 
 ---
 
