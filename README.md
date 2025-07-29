@@ -105,6 +105,13 @@ This project is open-source under the [MIT License](LICENSE).
 
 ---
 
+## 👥 Team Members
+
+- **Kumar Saurav**  
+- **Neha Chandwani**  
+- **Sumant Kumar**
+
+
 ## 🙋‍♂️ Author
 
 **Kumar Saurav**  
