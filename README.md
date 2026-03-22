@@ -25,6 +25,9 @@ Smart Sorting/
 
 ---
 
+
+---
+
 ## ⚙️ Technologies Used
 
 - **Python**
@@ -36,45 +39,12 @@ Smart Sorting/
 
 ---
 
-## 🚀 How to Run the Project Locally
-
-### 🔧 Setup
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/KumarSaurav-29/Smart-Sorting-TL-Rotten-Fruits.git
-   cd Smart-Sorting-TL-Rotten-Fruits
-   ```
-
-2. **Create virtual environment** (optional but recommended):
-   ```bash
-   python -m venv venv
-   venv\Scripts\activate  # For Windows
-   ```
-
-3. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the app**:
-   ```bash
-   python app.py
-   ```
-
-5. **Open your browser** and go to:
-   ```
-   http://127.0.0.1:5000/
-   ```
-
----
-
 ## 🧠 Model Details
 
 The `.h5` file contains a pre-trained model using **Transfer Learning** techniques (like MobileNetV2). It classifies images into two categories:
 
-- ✅ Healthy
-- ❌ Rotten
+- ✅ Healthy  
+- ❌ Rotten  
 
 ---
 
@@ -105,14 +75,13 @@ This project is open-source under the [MIT License](LICENSE).
 
 ---
 
-## 👥 Team Members
-
-- **Kumar Saurav**  
-- **Neha Chandwani**  
-- **Sumant Kumar**
-
 
 ## 🙋‍♂️ Author
 
 **Kumar Saurav**  
-[GitHub](https://github.com/KumarSaurav-29) | [LinkedIn](https://www.linkedin.com/in/kumar-saurav29)
+
+🔗 **GitHub:** https://github.com/KumarSaurav-29  
+🔗 **LinkedIn:** https://www.linkedin.com/in/kumar-saurav29
+
+---
+
