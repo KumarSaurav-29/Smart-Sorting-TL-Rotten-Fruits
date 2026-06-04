@@ -73,9 +73,11 @@ Feel free to fork this repository and submit a pull request with improvements!
 ## 🙋‍♂️ Author
 
 **Kumar Saurav**  
-
 🔗 **GitHub:** https://github.com/KumarSaurav-29  
 🔗 **LinkedIn:** https://www.linkedin.com/in/kumar-saurav29
 
+**Neha Chandwani**  
+🔗 **GitHub:** https://github.com/NehaChandwani30
+🔗 **LinkedIn:** https://www.linkedin.com/in/neha-chandwani
 ---
 
