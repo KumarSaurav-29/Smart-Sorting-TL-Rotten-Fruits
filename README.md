@@ -69,15 +69,14 @@ Feel free to fork this repository and submit a pull request with improvements!
 
 ---
 
+## 👨‍💻 Team Members
 
-## 🙋‍♂️ Author
-
-**Kumar Saurav**  
+### Kumar Saurav
 🔗 **GitHub:** https://github.com/KumarSaurav-29  
 🔗 **LinkedIn:** https://www.linkedin.com/in/kumar-saurav29
 
-**Neha Chandwani**  
-🔗 **GitHub:** https://github.com/NehaChandwani30
-🔗 **LinkedIn:** https://www.linkedin.com/in/neha-chandwani
----
+### Neha Chandwani
+🔗 **GitHub:** https://github.com/NehaChandwani30  
+🔗 **LinkedIn:** https://www.linkedin.com/in/neha-chandwani-38a7ba398
 
+---
