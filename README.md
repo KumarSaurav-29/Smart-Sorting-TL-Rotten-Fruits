@@ -73,7 +73,7 @@ Feel free to fork this repository and submit a pull request with improvements!
 
 ### Kumar Saurav
 🔗 **GitHub:** https://github.com/KumarSaurav-29  
-🔗 **LinkedIn:** https://www.linkedin.com/in/kumar-saurav29
+🔗 **LinkedIn:** www.linkedin.com/in/kumar-saurav4953
 
 ### Neha Chandwani
 🔗 **GitHub:** https://github.com/NehaChandwani30  
