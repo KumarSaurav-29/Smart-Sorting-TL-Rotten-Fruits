@@ -69,12 +69,6 @@ Feel free to fork this repository and submit a pull request with improvements!
 
 ---
 
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
 
 ## 🙋‍♂️ Author
 
